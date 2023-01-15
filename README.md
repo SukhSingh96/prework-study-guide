@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-Each section of my webpage contains notes about a certain topic, like HTML, CSS, JavaScript, Git. If the DevTools console is opened, we can see the JavaScript running. It will list the topics that were discussed during the prework and choose one topic for us to study first.
+Each section of my webpage contains notes about a certain topic, like HTML, CSS, JavaScript, Git. For suggestions on what to study first, open the Chrome DevTools by pressing Control-Shift-I. A console panel should appear in the browser. Here you will see a list of topics from the prework alongside a suggestion on what to study first.
 
 ## Credits
 
@@ -19,20 +19,4 @@ N/A
 
 ## License
 
-MIT license
-
-## Badges
-
-N/A
-
-## Features
-
-N/A
-
-## How to Contribute
-
-N/A
-
-## Tests
-
-N/A
+Please refer to the license in the repository.
